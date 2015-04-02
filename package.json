@@ -1,0 +1,20 @@
+{
+  "name": "formatjs-express-handlebars",
+  "version": "1.0.0",
+  "description": "Example Express app using FormatJS and Handlebars",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericf/formatjs-express-handlebars.git"
+  },
+  "author": "Eric Ferraiuolo <edf@ericf.me>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ericf/formatjs-express-handlebars/issues"
+  },
+  "homepage": "https://github.com/ericf/formatjs-express-handlebars"
+}

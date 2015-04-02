@@ -1,0 +1,4 @@
+{
+    "some_text": "texte à tester",
+    "cats": "{cats, plural, one {# chat} other {# chats}}"
+}
